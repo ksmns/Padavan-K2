@@ -4,4 +4,4 @@
 
 #使用一键云编译自动编译 ,脚本来自https://github.com/chongshengB/Padavan-build ，再次感谢 。
 
-#固件我自己测试没问题 ,有问题请提交https://github.com/Tourists567/Padavan-K2/lssues反馈  。 
+#固件我自己测试没问题 ,有问题请提交lssues反馈  。 
